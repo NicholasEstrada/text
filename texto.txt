@@ -1,0 +1,14 @@
+\section{Compliance com a LGPD}
+
+O \textit{compliance} com a LGPD refere-se à conformidade de uma organização com as diretrizes estabelecidas para o tratamento de dados pessoais. Significa que a empresa adota políticas, procedimentos e controles internos eficazes para garantir que o manejo dessas informações seja realizado de maneira lícita, legítima e transparente, sempre respeitando os direitos dos titulares. Além do treinamento adequado dos colaboradores e da designação de um \textit{Data Protection Officer} (DPO) para supervisionar e aconselhar a organização na gestão de dados, conforme disposto no Artigo 41 da LGPD, toda organização deve nomear um Encarregado de Proteção de Dados, que será responsável por garantir a conformidade com a legislação \cite{lei13709}.
+
+
+A implementação da LGPD é crucial em um mundo cada vez mais digitalizado, onde o volume de dados gerados e compartilhados cresce exponencialmente. Esta seção discute a importância da promoção da transparência e responsabilidade das organizações, e as formas de se obter informações expostas de organizações para que setores externos possam investigar e validar a segurança de dados do ambiente.
+
+\subsection{Busca em sites}
+
+As informações contidas em um site web podem se esconder em diversos locais e serem expostas onde não é devido; a localização dessas informações é de responsabilidade do operador do domínio. Ele deve ter o trabalho de manter-se em conformidade com a lei e garantir que dados sensíveis não sejam expostos. 
+
+Uma das maneiras para garantir que a lei seja atendida é a realização de varreduras nos sites sob responsabilidade da organização. Este é um dos papéis do Data Protection Officer (DPO), que deve assegurar a conformidade legal quanto à publicação de dados sensíveis. A verificação pode ser realizada manualmente, o que envolve navegar pelo site para identificar possíveis dados pessoais publicados de forma inadequada. Embora esse método seja necessário para garantir a conformidade, ele é intensivo em tempo e trabalho.
+
+Como alternativa, o uso de ferramentas automatizadas de busca e coleta de dados, como \textit{crawlers}, pode se mostrar uma solução eficaz. Estas ferramentas são projetadas para navegar e analisar sites, identificando e coletando dados relevantes automaticamente. Dessa forma, elas facilitam o processo de \textit{compliance} e ajudam o DPO a garantir que os dados sensíveis estejam protegidos, minimizando o risco de exposição e otimizando o tempo de análise.
